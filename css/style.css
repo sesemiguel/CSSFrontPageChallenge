@@ -1,0 +1,117 @@
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  color: #ff7315;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.25em;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+
+a{
+  font-family: 'Roboto', sans-serif;
+}
+
+img{
+  width: 35%;
+  height: 35%;
+}
+
+.header {
+  background-color: #232020;
+  padding: 5% 0% 5% 0%;
+}
+
+.header h1 {
+  font-size: 4em;
+  color: #ff7315;
+  font-family: 'Roboto Slab', serif;
+  font-weight: bolder;
+}
+
+.header h2 {
+  color: #f4f4f4;
+}
+
+.intro {
+  padding-bottom: 5%;
+  margin: 0 33% 0 33%;
+}
+
+.skills {
+  padding-bottom: 5%;
+}
+
+.skills p {
+  text-align: left;
+}
+
+.right-skill, .left-skill{
+  width: 33%;
+  margin: 0% 33% 0% 33%;
+}
+
+.right-skill img, .left-skill img{
+  display: inline-block;
+  position: relative;
+}
+
+.right-skill h3, .left-skill h3{
+  display: inline-block;
+  margin: 15% 0 0 0;
+}
+
+.right-skill img{
+  float: right;
+}
+
+.right-skill p{
+  text-align: right;
+}
+
+.left-skill img{
+  float: left;
+}
+
+.left-skill p{
+  text-align: left;
+}
+
+.contact{
+  margin: 0% 33% 0% 33%;
+}
+
+.footer {
+  background-color: #232020;
+  margin-top: 5%;
+  padding: 1% 0 1% 0;
+}
+
+.footer p {
+  display: block;
+  color: #f4f4f4;
+}
+
+.footer a {
+  color: #ff7315;
+}
+
+.social a {
+  display: inline-block;
+  padding: 2%;
+  margin: 0;
+}
